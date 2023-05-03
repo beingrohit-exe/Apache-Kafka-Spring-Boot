@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.11</version>
+		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kafka</groupId>
-	<artifactId>Apache-Kafka-Spring-Boot-Producer</artifactId>
+	<artifactId>Consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Apache Kafka Spring Boot</name>
-	<description>Apache Kafka Spring Boot</description>
+	<name>Consumer</name>
+	<description>Consumer</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
